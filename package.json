@@ -1,0 +1,11 @@
+{
+    "name":    "ds9",
+    "version": "0.1.0",
+    "dependencies": {
+        "hashring":         "0.0.6",
+        "zkplus":           "0.2.2",
+        "bouncy":           "2.0.3",
+        "directory-stream": "0.1.1",
+        "reductionist":     "0.0.2"
+    }
+}
